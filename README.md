@@ -1,3 +1,2 @@
 # Python-Game-Project
-
-this is very frendliy project for beginners
+A collection of fun and interactive Python games built from scratch.
